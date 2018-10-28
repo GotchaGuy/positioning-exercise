@@ -31,3 +31,23 @@ body {
 .arrowUp a:hover, .arrowDown a:hover, .facebook a:hover, .instagram a:hover{
 	color: blue;
 }
+.arrowUp {
+	position: fixed;
+	right: 0;
+	top: 340px;
+}
+.arrowDown {
+	position: fixed;
+	right: 0;
+	bottom: 340px;
+}
+.facebook {
+	position: fixed;
+	left: 0;
+	top: 320px;
+}
+.instagram {
+	position: fixed;
+	left: 0;
+	bottom: 320px;
+}

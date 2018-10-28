@@ -22,3 +22,16 @@ div.inner {
 	background-size: cover;
 	background-position: center;
 }
+div.one {
+	position: relative;
+	right: 10px;
+}
+div.two {
+	position: relative;
+	bottom: 10px;
+}
+div.three {
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
